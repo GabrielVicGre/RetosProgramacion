@@ -1,4 +1,4 @@
-package program.p1;
+package programas;
 
 public class Programa1 {
 }
