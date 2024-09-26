@@ -7,6 +7,6 @@ public class Principal {
     public static void main(String[] args) {
        // FizzBuzz.Iniciar();
        // LenguajeHacker.Iniciar();
-        PasswordGenerator.Iniciar();
+       // PasswordGenerator.Iniciar();
     }
 }
